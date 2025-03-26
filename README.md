@@ -1,5 +1,6 @@
 # Hello, I'm Reihan
 <a href="https://linkedin.com/in/reihan-daniswara/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a> <img src="https://github.com/ReihanPramudito/ImageAsset/blob/main/Screenshot%202025-03-27%20at%2001.03.30.png?raw=true" width="150" alt="LinkedIn Profile"/></a>
 
 [Brief Introduction - Remove this afterwards]
 
