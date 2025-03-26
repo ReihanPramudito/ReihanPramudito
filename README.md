@@ -39,7 +39,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Volatility-000000?style=for-the-badge&logo=Volatility&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-FTK_Imager-4B275F?style=for-the-badge&logo=FTK&logoColor=white" />
-    <img src="https://github.com/ReihanPramudito/ImageAsset/blob/main/badgePortfolio/wireshark.png?raw=true" width="150" alt="LinkedIn Profile"/>
+    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/wireshark.png?raw=true" width="150" alt="LinkedIn Profile"/>
 </div>
 
 ### Endpoint
