@@ -32,14 +32,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/Suricata-F05A22?style=for-the-badge&logo=Suricata&logoColor=white"/>
+    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/suricata.png?raw=true" width="120" alt="Suricata"/>
 </div>
 
 ### Digital Forensics
 
 <div>
-    <img src="https://img.shields.io/badge/-Volatility-000000?style=for-the-badge&logo=Volatility&logoColor=white" /> 
-    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/autopsy.png?raw=true" width="150" alt="Autopsy"/>
+    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/autopsy.png?raw=true" width="120" alt="Autopsy"/>
+    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/volatility.png?raw=true" width="125" alt="Volatility"/>
     <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/ftkimager.png?raw=true" width="150" alt="FTK Imager"/>
     <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/wireshark.png?raw=true" width="150" alt="Wireshark"/>
 </div>
