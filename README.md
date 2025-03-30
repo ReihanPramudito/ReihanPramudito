@@ -27,8 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/ftkimager.png?raw=true" width="150" alt="FTK Imager"/>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/splunk.png?raw=true" width="150" alt="splunk"/>
 </div>
 
 ### Network
