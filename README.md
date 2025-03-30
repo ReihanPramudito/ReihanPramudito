@@ -27,7 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/splunk.png?raw=true" width="150" alt="splunk"/>
+    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/splunk.png?raw=true" width="100" alt="Splunk"/>
 </div>
 
 ### Network
@@ -39,14 +39,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
     <img src="https://img.shields.io/badge/-Volatility-000000?style=for-the-badge&logo=Volatility&logoColor=white" /> 
+    <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/autopsy.png?raw=true" width="150" alt="Autopsy"/>
     <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/ftkimager.png?raw=true" width="150" alt="FTK Imager"/>
     <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/wireshark.png?raw=true" width="150" alt="Wireshark"/>
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ## Certifications
