@@ -46,7 +46,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/134605a6-dea1-48d6-8b88-16b9c1a3c348">
+<img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/security+.png?raw=true" width="120" alt="Security+"/>
+</a>
 </div>
 
 ## Projects
