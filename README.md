@@ -1,4 +1,5 @@
-# Hello, I'm Reihan
+# Hello, I'm Reihan Daniswara Pramudito  
+**Cybersecurity Student | SOC Lead | CompTIA Security+ Certified**  
 
 ## Certifications
 <div>
