@@ -3,6 +3,10 @@
 
 🔒 **Seeking**: Cybersecurity Internship (Asia Pacific Region) starting June/July 2025
 
+<a href="https://linkedin.com/in/reihan-daniswara/">
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/linkedin.png?raw=true" width="150" alt="LinkedIn"/>
+</a>
+
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/134605a6-dea1-48d6-8b88-16b9c1a3c348">
@@ -38,9 +42,4 @@
 |---------|-------|------------|  
 
 ## CTF Competitions
-- 🥇 **Top 4%, picoCTF 2025**  
-
-## Connect
-<a href="https://linkedin.com/in/reihan-daniswara/">
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/linkedin.png?raw=true" width="150" alt="LinkedIn"/>
-</a>
+- **Top 4%, picoCTF 2025**  
