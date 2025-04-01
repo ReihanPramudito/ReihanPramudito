@@ -18,9 +18,9 @@
 
 ### Offensive Security
 <div>
-  <img src="https://img.shields.io/badge/Burp_Suite-Exploitation-red" alt="Burp Suite"/>  
-  <img src="https://img.shields.io/badge/Metasploit-Payload_Development-red" alt="Metasploit"/>  
-  <img src="https://img.shields.io/badge/Nmap-Network_Scanning-red" alt="Nmap"/>  
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/metasploit.png?raw=true" width="130" alt="Metasploit"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/nmap.png?raw=true" width="95" alt="Nmap"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/burpsuite.png?raw=true" width="130" alt="Burp Suite"/>
 </div>
 
 ### SIEM
