@@ -16,6 +16,13 @@
 
 ## Technical Tools
 
+### Offensive Security
+<div>
+  <img src="https://img.shields.io/badge/Burp_Suite-Exploitation-red" alt="Burp Suite"/>  
+  <img src="https://img.shields.io/badge/Metasploit-Payload_Development-red" alt="Metasploit"/>  
+  <img src="https://img.shields.io/badge/Nmap-Network_Scanning-red" alt="Nmap"/>  
+</div>
+
 ### SIEM
 <div>
     <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/splunk.png?raw=true" width="100" alt="Splunk"/>
