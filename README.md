@@ -4,8 +4,9 @@
 🔒 **Seeking**: Cybersecurity Internship (Asia Pacific Region) starting June/July 2025
 
 <a href="https://linkedin.com/in/reihan-daniswara/">
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/linkedin.png?raw=true" width="150" alt="LinkedIn"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/linkedin.png?raw=true" width="120" alt="LinkedIn"/>
 </a>
+
 
 ## Certifications
 <div>
@@ -13,6 +14,7 @@
 <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/security+.png?raw=true" width="120" alt="Security+"/>
 </a>
 </div>
+
 
 ## Technical Tools
 
@@ -23,13 +25,9 @@
   <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/burpsuite.png?raw=true" width="130" alt="Burp Suite"/>
 </div>
 
-### SIEM
+### Defensive Security  
 <div>
     <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/splunk.png?raw=true" width="100" alt="Splunk"/>
-</div>
-
-### Network
-<div>
     <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/suricata.png?raw=true" width="120" alt="Suricata"/>
 </div>
 
@@ -42,11 +40,18 @@
     <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/wireshark.png?raw=true" width="150" alt="Wireshark"/>
 </div>
 
+### Programming
+
+<div>
+  
+</div>
+
 
 ## Projects
 
 | Project | Tools | Key Result |  
 |---------|-------|------------|  
+
 
 ## CTF Competitions
 - **Top 4%, picoCTF 2025**  
