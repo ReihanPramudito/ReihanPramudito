@@ -44,12 +44,12 @@
 
 <div>
   <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/autopsy.png?raw=true" width="120" alt="Autopsy"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/python.png?raw=true" width="120" alt="Python"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/c.png?raw=true" width="120" alt="C"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/cpp.png?raw=true" width="120" alt="C++"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/assembly.png?raw=true" width="120" alt="Assembly"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/sql.png?raw=true" width="120" alt="SQL"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/java.png?raw=true" width="120" alt="Java"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/python.png?raw=true" width="115" alt="Python"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/c.png?raw=true" width="65" alt="C"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/cpp.png?raw=true" width="95" alt="C++"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/assembly.png?raw=true" width="140" alt="Assembly"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/sql.png?raw=true" width="90" alt="SQL"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/java.png?raw=true" width="90" alt="Java"/>
 </div>
 
 
