@@ -58,6 +58,15 @@
 |---------|-------|------------|  
 
 
+| Project | Tools | Key Result | Repo |  
+|---------|-------|-------------|------|  
+| **🔒 Suricata IDS/IPS** | `Suricata` `Rocky Linux` | Blocked 100% of tested attacks | [Link](https://github.com/...) |  
+| **🕵️ Forensic VM Analysis** | `Autopsy` `Volatility` | Identified 8+ malware strains | [Link](https://github.com/...) |  
+| **📊 Splunk Fraud Detection** | `Splunk` `Python` | Analyzed 150+ transactions | [Link](https://github.com/...) |  
+| **⚔️ Python Ransomware Tool** | `Python` `Rockyou.txt` | Decrypted 100% of files | [Link](https://github.com/...) |  
+| **🏆 CTF Writeups** | `Metasploit` `Ghidra` | Top 4% in picoCTF 2025 | [Link](https://github.com/...) |  
+| **🛡️ Secure Email Server** | `Postfix` `ClamAV` | Mitigated MITM risks | [Link](https://github.com/...) | 
+
 
 ## CTF Competitions
 - **Top 4%, picoCTF 2025**  
