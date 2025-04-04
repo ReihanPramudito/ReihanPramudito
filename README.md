@@ -6,8 +6,8 @@
 <a href="https://linkedin.com/in/reihan-daniswara/">
   <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/linkedin.png?raw=true" width="120" alt="LinkedIn"/>
 </a>
-<a href="https://linkedin.com/in/reihan-daniswara/">
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/contactme.png?raw=true" width="120" alt="LinkedIn"/>
+<a href="mailto:reihan.pramudito@gmail.com">
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/contactme.png?raw=true" width="140" alt="LinkedIn"/>
 </a>
 
 ## 🔖 Certifications
@@ -62,6 +62,8 @@
 
 
 ## 🏆 CTF Achievements
-- **Top 4%** - *picoCTF* 2025 by Carnegie Mellon University (CMU)
-- **3rd Place** - *Cyber Tradition Battle 2024 CTF Competition* by British American Tobacco (BAT) & Asia Pacific University (APU)
-- **Top 7%** - *SunshineCTF 2024* by University of Central Florida & B-Sides Orlando
+| Rank | Competition | Organiser | Writeup |
+|------|-------------|-----------|---------|
+| **Top 4%** | picoCTF 2025 | Carnegie Mellon University (CMU) | Coming Soon 🔒 |
+| **3rd Place** | Cyber Tradition Battle 2024 <br>CTF Competition | British American Tobacco (BAT) & Asia Pacific University (APU) | N/A |
+| **Top 7%** | Sunshine CTF 2024 | University of Central Florida & B-Sides Orlando | N/A |
