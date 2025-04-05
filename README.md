@@ -7,9 +7,8 @@
   <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/linkedin.png?raw=true" width="120" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:reihan.pramudito@gmail.com" target="_blank">
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/contactme.png?raw=true" width="140" alt="Email Me"/>
-</a>
+**Email**: <a href="mailto:reihan.pramudito@gmail.com">reihan.pramudito@gmail.com</a>
+
 
 ## 🔖 Certifications
 <div>
