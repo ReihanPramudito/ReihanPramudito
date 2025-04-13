@@ -58,7 +58,7 @@
 
 | Project | Tools | Key Result |  
 |---------|-------|------------|  
-| [Forensic Analysis of Infected Windows 10 VM](https://github.com/ReihanPramudito/forensic-vm-analysis) | `Autopsy` `Volatility` `Wireshark` |  |
+| [Forensic Analysis of Infected Windows 10 VM](https://github.com/ReihanPramudito/forensic-vm-analysis) | `Autopsy` `Volatility` `Wireshark` | Identified 8+ malware strains and 3 C2 servers |
 
 
 ## 🏆 CTF Achievements
