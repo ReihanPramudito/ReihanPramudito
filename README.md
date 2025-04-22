@@ -59,6 +59,7 @@
 | Project | Tools | Key Result |  
 |---------|-------|------------|  
 | [Forensic Analysis of Infected Windows 10 VM](https://github.com/ReihanPramudito/forensic-vm-analysis) | `Autopsy` `Volatility` `Wireshark` | Identified 8+ malware strains and 3 C2 servers |
+| [Anti‑Forensics Techniques Research](https://github.com/ReihanPramudito/anti-forensics-techniques-research) | `Eraser` `VeraCrypt` `Scapy` `UPX` | Permanently wiped test files; created hidden volumes; spoofed network traffic; evaded forensic scans |
 
 
 ## 🏆 CTF Achievements
