@@ -59,7 +59,8 @@
 | Project | Tools | Key Result |  
 |---------|-------|------------|  
 | [Forensic Analysis of Infected Windows 10 VM](https://github.com/ReihanPramudito/forensic-vm-analysis) | `Autopsy` `Volatility` `Wireshark` | Identified 8+ malware strains and 3 C2 servers |
-| [Anti‑Forensics Techniques Research](https://github.com/ReihanPramudito/anti-forensics-techniques-research) | `Eraser` `VeraCrypt` `Scapy` `UPX` | Permanently wiped test files; created hidden volumes; spoofed network traffic; evaded forensic scans |
+| [Anti‑Forensics Techniques Research](https://github.com/ReihanPramudito/anti-forensics-techniques-research) | `Eraser` `VeraCrypt` `Scapy` `UPX` | Permanently wiped test files; created hidden volumes; spoofed network traffic; evaded forensic scans; identified violations under Indonesian law |
+| [Suricata IDS/IPS Implementation for Network Threat Detection](https://github.com/ReihanPramudito/suricata-ids-ips) | `Suricata` `Rocky Linux` `firewall-cmd` `Apache HTTPD` `OpenSSL` | 100% block rate of SSH/HTTP attacks in IPS mode; enforced HTTPS across services |  
 
 
 ## 🏆 CTF Achievements
