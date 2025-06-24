@@ -1,5 +1,5 @@
 # Hello, I'm Reihan Daniswara Pramudito  
-*Cybersecurity Student | SOC Lead | CompTIA Security+ Certified*
+*Cybersecurity Student | CompTIA Security+ Certified*
 
 🔍 **Currently seeking**: Cybersecurity Internship (Asia Pacific Region) | Start: June/July 2025
 
