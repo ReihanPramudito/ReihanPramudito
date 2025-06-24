@@ -1,7 +1,9 @@
 # Hello, I'm Reihan Daniswara Pramudito  
-*Cybersecurity Student | CompTIA Security+ Certified*
+*Computer Science Student | CompTIA Security+ Certified*
 
-[//]: #(🔍 **Currently seeking**: Cybersecurity Internship (Asia Pacific Region) | Start: June/July 2025)
+<!--
+🔍 **Currently seeking**: Cybersecurity Internship (Asia Pacific Region) | Start: June/July 2025
+-->
 
 <a href="https://linkedin.com/in/reihan-daniswara/">
   <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/linkedin.png?raw=true" width="120" alt="LinkedIn"/>
